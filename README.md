@@ -1,2 +1,3 @@
 # Hello-World
-first repo
+first repository
+I am GOODLUCK
